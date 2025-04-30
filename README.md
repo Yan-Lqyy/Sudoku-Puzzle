@@ -75,7 +75,7 @@ The puzzles used for the performance comparison are from the [Sudoku dataset on 
 **Test Setup:**
 
 *   **Dataset Size:** The comparison was run on the **entire dataset of 1,000,000 puzzles**.
-*   **Hardware:** (You might want to add details about the CPU/RAM used here for better reproducibility, e.g., "Run on a [Your CPU Name] with [Your RAM Amount] RAM.")
+*   **Hardware:** Run on a 12th Gen Intel(R) Core(TM) i7-1265U with 16 GB RAM.
 *   **Code:** The Python script in this repository was used, with the `SAMPLE_PERCENTAGE` set to `1.0` to include all puzzles.
 
 **Results:**
