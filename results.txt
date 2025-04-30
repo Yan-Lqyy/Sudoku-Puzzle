@@ -1,0 +1,23 @@
+Dataset: 1 million Sudoku games
+Source: https://www.kaggle.com/datasets/bryanpark/sudoku
+Sample Ratio: 100%
+
+--- Final Time Race Results ---
+
+GDLC Solver Final Statistics:
+  Total puzzles processed:  1000000
+  Correctly Solved:       1000000/1000000
+  Failed to Solve:        0/1000000
+  Average time:           0.000468 seconds
+  Min time:               0.000156 seconds
+  Max time:               0.032885 seconds
+  Std Dev time:           0.000270 seconds
+
+Traditional Solver Final Statistics:
+  Total puzzles processed:  1000000
+  Correctly Solved:       1000000/1000000
+  Failed to Solve:        0/1000000
+  Average time:           0.000889 seconds
+  Min time:               0.000172 seconds
+  Max time:               0.118753 seconds
+  Std Dev time:           0.001124 seconds
